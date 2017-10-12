@@ -46,7 +46,7 @@
 
 
 ## ஆய்வுக் கட்டுரைகள்
-* [Public Libraries in Jaffna District, Sri Lanka](http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=2333&context=libphilprac) - ChallengesKalpana Chandraseka
+* [Public Libraries in Jaffna District, Sri Lanka - Challenges](http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=2333&context=libphilprac) - Kalpana Chandraseka
 
 ## அமைப்புகள்
 * அயோத்தி நூலக சேவைகள்
